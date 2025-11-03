@@ -1,35 +1,35 @@
 {
   "riddles": [
     {
-      "id": "riddle-019",
+      "id": 19,
       "level": 19,
       "text": "9, 18, 27, ?",
       "solution": 36,
       "hint": "Multiples of 9"
     },
     {
-      "id": "riddle-020",
+      "id": 20,
       "level": 20,
       "text": "2, 3, 5, 7, 11, ?",
       "solution": 13,
       "hint": "Prime numbers"
     },
     {
-      "id": "riddle-021",
+      "id": 21,
       "level": 21,
       "text": "50 ÷ ? = 10",
       "solution": 5,
       "hint": "Divide 50 by 10"
     },
     {
-      "id": "riddle-022",
+      "id": 22,
       "level": 22,
       "text": "12 × ? = 144",
       "solution": 12,
       "hint": "144 divided by 12"
     },
     {
-      "id": "riddle-023",
+      "id": 23,
       "level": 23,
       "text": "A + B = 20\nA - B = 4\nA = ?",
       "solution": 12,
