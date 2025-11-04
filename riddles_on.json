@@ -34,6 +34,14 @@
       "text": "A + B = 20\nA - B = 4\nA = ?",
       "solution": 12,
       "hint": "Add the equations"
+    },
+    {
+      "id":24,
+      "level":24,
+      "text": "15, 30, 45, ?",
+      "solution": 60,
+      "hint": "Multiples of 15"
     }
   ]
 }
+  
