@@ -1,34 +1,17 @@
 {
+  "title": "Daily 10 Challenge",
+  "version": 1,
+  "updated": "2025-11-04",
   "riddles": [
-    {
-      "id": 101,
-      "text": "What is 2 + 2?",
-      "solution": 4,
-      "hint": "Add 2 and 2"
-    },
-    {
-      "id": 102,
-      "text": "What is 5 - 3?",
-      "solution": 2,
-      "hint": "Subtract 3 from 5"
-    },
-    {
-      "id": 103,
-      "text": "What is 3 × 4?",
-      "solution": 12,
-      "hint": "Multiply 3 by 4"
-    },
-    {
-      "id": 104,
-      "text": "What is 8 ÷ 2?",
-      "solution": 4,
-      "hint": "Divide 8 by 2"
-    },
-    {
-      "id": 105,
-      "text": "What is 10 % 3?",
-      "solution": 1,
-      "hint": "Find the remainder when 10 is divided by 3"
-    }
+    { "challenge": 1,  "id": 201, "text": "What is 2 + 2?",        "solution": 4,  "hint": "Add 2 and 2" },
+    { "challenge": 2,  "id": 202, "text": "What is 5 - 3?",        "solution": 2,  "hint": "Subtract 3 from 5" },
+    { "challenge": 3,  "id": 203, "text": "What is 3 × 4?",        "solution": 12, "hint": "Multiply 3 by 4" },
+    { "challenge": 4,  "id": 204, "text": "What is 8 ÷ 2?",        "solution": 4,  "hint": "Divide 8 by 2" },
+    { "challenge": 5,  "id": 205, "text": "What is 10 % 3?",       "solution": 1,  "hint": "Remainder of 10 ÷ 3" },
+    { "challenge": 6,  "id": 206, "text": "What is 7 + 6?",        "solution": 13, "hint": "Seven plus six" },
+    { "challenge": 7,  "id": 207, "text": "What is 9 − 4?",        "solution": 5,  "hint": "Take away four" },
+    { "challenge": 8,  "id": 208, "text": "What is 6 × 6?",        "solution": 36, "hint": "Six by six" },
+    { "challenge": 9,  "id": 209, "text": "What is 18 ÷ 3?",       "solution": 6,  "hint": "Eighteen divided by three" },
+    { "challenge": 10, "id": 210, "text": "What is (5 × 3) + 2?",  "solution": 17, "hint": "Do multiplication first" }
   ]
 }
