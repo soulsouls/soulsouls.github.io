@@ -2,34 +2,33 @@
   "riddles": [
     {
       "id": 101,
-      "question": "What is 2 + 2?",
-      "answer": 4,
-      "image": "puzzle101.webp"
+      "text": "What is 2 + 2?",
+      "solution": 4,
+      "hint": "Add 2 and 2"
     },
     {
       "id": 102,
-      "question": "What is 5 - 3?",
-      "answer": 2,
-      "image": "puzzle102.webp"
+      "text": "What is 5 - 3?",
+      "solution": 2,
+      "hint": "Subtract 3 from 5"
     },
     {
       "id": 103,
-      "question": "What is 3 * 4?",
-      "answer": 12,
-      "image": "puzzle103.webp"
+      "text": "What is 3 × 4?",
+      "solution": 12,
+      "hint": "Multiply 3 by 4"
     },
     {
       "id": 104,
-      "question": "What is 8 / 2?",
-      "answer": 4,
-      "image": "puzzle104.webp"
+      "text": "What is 8 ÷ 2?",
+      "solution": 4,
+      "hint": "Divide 8 by 2"
     },
     {
       "id": 105,
-      "question": "What is 10 % 3?",
-      "answer": 1,
-      "image": "puzzle105.webp"
+      "text": "What is 10 % 3?",
+      "solution": 1,
+      "hint": "Find the remainder when 10 is divided by 3"
     }
-  ],
-  "date": "2025-10-31"
+  ]
 }
