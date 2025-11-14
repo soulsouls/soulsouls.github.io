@@ -1,0 +1,70 @@
+{
+  "riddles": [
+    {"id":31,"level":31,"text":"●●● ○ ○","solution":3,"hints":["count filled","3 filled"] ,"image":null},
+    {"id":32,"level":32,"text":"2→□→8 (gap) ","solution":5,"hints":["middle of 2 and 8","(2+8)/2"],"image":null},
+    {"id":33,"level":33,"text":"triangle: 3, ?, 12 (linear)","solution":6,"hints":["even steps","3→6→9→12?","scale by +3"],"image":"33.png"},
+    {"id":34,"level":34,"text":"spiral dots: 1,2,4,7,?","solution":11,"hints":["differences +1,+2,+3","next +4"],"image":"34.png"},
+    {"id":35,"level":35,"text":"tie: L=7 R=? (total 20)","solution":13,"hints":["sum 20","20−7"],"image":"35.png"},
+
+    {"id":36,"level":36,"text":"mirror pair: 12 | ? | 21","solution":12,"hints":["palindrome idea","center equals left"],"image":null},
+    {"id":37,"level":37,"text":"circle halves: 8 and ? make 20","solution":12,"hints":["sum 20","20−8"],"image":null},
+    {"id":38,"level":38,"text":"path: 2,4,8,16,?","solution":32,"hints":["double each step","×2"],"image":"38.png"},
+    {"id":39,"level":39,"text":"dot-squares: 1,4,9,?","solution":16,"hints":["square numbers","5th is 16?"],"image":"39.png"},
+    {"id":40,"level":40,"text":"stack: 3,3,6,6,?","solution":12,"hints":["pairs double","next pair 12"],"image":null},
+
+    {"id":41,"level":41,"text":"gear: 3→9→? (×3)","solution":27,"hints":["×3 each","3×3=9 then ×3"],"image":"41.png"},
+    {"id":42,"level":42,"text":"tiles: 2,5,10,17,?","solution":26,"hints":["+3,+5,+7,+9","next +11"],"image":"42.png"},
+    {"id":43,"level":43,"text":"split 14 into 2 equal integers","solution":7,"hints":["14/2","two sevens"],"image":null},
+    {"id":44,"level":44,"text":"shapes: □+○=9 ; ○+△=11 ; □+△=?","solution":13,"hints":["add eqns","2(□+○+△)=40?","solve"],"image":"44.png"},
+    {"id":45,"level":45,"text":"ladder: levels 2,5,10,?","solution":17,"hints":["+3,+5,+7 pattern","next +9"],"image":"45.png"},
+
+    {"id":46,"level":46,"text":"balance: left 8 right 8+? = 20","solution":4,"hints":["right side must be 20","20−8"],"image":null},
+    {"id":47,"level":47,"text":"ring: 1,2,4,8,?","solution":16,"hints":["powers of two","×2"],"image":null},
+    {"id":48,"level":48,"text":"stair: 0,1,1,2,3,?","solution":5,"hints":["Fibonacci","sum prev two"],"image":"48.png"},
+    {"id":49,"level":49,"text":"cluster: 2+3+? = 10","solution":5,"hints":["2+3=5","5+5=10"],"image":"49.png"},
+    {"id":50,"level":50,"text":"edges: three equals 12 each ; find node","solution":6,"hints":["symmetry","each node 6"],"image":"50.png"},
+
+    {"id":51,"level":51,"text":"frame: 2,3,5,7,11,?","solution":13,"hints":["prime list","next prime"],"image":null},
+    {"id":52,"level":52,"text":"swap: 12↔21 ; 34↔?","solution":43,"hints":["reverse digits","mirror"],"image":null},
+    {"id":53,"level":53,"text":"tiles: cover 6 with 2+?","solution":4,"hints":["2+4=6","fill"],"image":null},
+    {"id":54,"level":54,"text":"rings: 1×2, 2×3, 3×? = 18 ; ?","solution":3,"hints":["3×3=9?","check sequence"],"image":"54.png"},
+    {"id":55,"level":55,"text":"count: 7,11,? ,19","solution":15,"hints":["+4, +? , +?","pattern +4,+4,+4"],"image":null},
+
+    {"id":56,"level":56,"text":"fold: 10 split into 3 parts equal?","solution":3.3333333333333335,"hints":["10/3","≈3.33"],"image":null},
+    {"id":57,"level":57,"text":"glyph: ▲▲●=6 ; ▲●●=5 ; ●=?","solution":2,"hints":["solve small system","trial"],"image":"57.png"},
+    {"id":58,"level":58,"text":"path sum: 4→?→16 doubling steps","solution":8,"hints":["4→8→16","×2"],"image":null},
+    {"id":59,"level":59,"text":"pair: 3 & ? → product 21","solution":7,"hints":["21/3","=7"],"image":null},
+    {"id":60,"level":60,"text":"grid: 2×2 sums row1=5 row2=? find missing","solution":6,"hints":["row sums equal?","infer missing cell"],"image":"60.png"},
+
+    {"id":61,"level":61,"text":"repeat: 4,4,8,8,16,?","solution":16,"hints":["pairs double","next pair 16"],"image":null},
+    {"id":62,"level":62,"text":"clock: 3 hours after 11 = ?","solution":2,"hints":["11+3=14 → 2pm on 12h clock"],"image":null},
+    {"id":63,"level":63,"text":"subtract chain: 50→?→30 (equal steps)","solution":40,"hints":["step =10","50-10=40"],"image":null},
+    {"id":64,"level":64,"text":"weave: 1,3,6,10,15,?","solution":21,"hints":["triangular numbers","+5 next"],"image":"64.png"},
+    {"id":65,"level":65,"text":"mix: 2+2, 3+3, 4+4 → ?","solution":10,"hints":["sum pairs","2+2=4,3+3=6,4+4=8? check"],"image":null},
+
+    {"id":66,"level":66,"text":"tilt: 2→3→5→7→11→?","solution":13,"hints":["primes sequence","next prime"],"image":null},
+    {"id":67,"level":67,"text":"bridge: 1+4+? =10","solution":5,"hints":["1+4=5","5+5=10"],"image":null},
+    {"id":68,"level":68,"text":"loop: 2,4,6,9,13,?","solution":18,"hints":["increments +2,+2,+3,+4,+5"],"image":"68.png"},
+    {"id":69,"level":69,"text":"mask: 2×5= ?","solution":10,"hints":["multiply","2×5"],"image":null},
+    {"id":70,"level":70,"text":"final: 1,1,2,4,8,?","solution":16,"hints":["double every term after second?","pattern"],"image":"70.png"}
+  ],
+
+  "image_prompts": {
+    "33.png": "1:1 compact dark tile. Simple centered triangle with numbers '3' at top-left vertex, '12' at bottom-right vertex and a '?' at bottom-left vertex. Thin white single-line vector, no extra text.",
+    "34.png": "1:1 compact dark tile. Spiral of small white dots labelled 1,2,4,7,? arranged clockwise. Minimal, centered.",
+    "35.png": "1:1 compact dark tile. Small seesaw icon: left weight '7', right weight '13' with total indicated '20' above. Thin white lines, balanced composition.",
+    "38.png": "1:1 compact dark tile. Row of numbers 2,4,8,16,? in thin white type; final '?' same size. Minimal.",
+    "39.png": "1:1 compact dark tile. Row of dot-square grids representing 1,4,9,16; last square outlined with '?' marker. Clean.",
+    "41.png": "1:1 compact dark tile. Three small gears with numbers 3→9→? near them showing ×3 relation. Thin-line icons.",
+    "42.png": "1:1 compact dark tile. Horizontal chain 2,5,10,17,? with tiny +3,+5,+7,+9 labels under arrows. Compact.",
+    "44.png": "1:1 compact dark tile. 2×2 shape-sum grid using □ ○ △ and small numerals; last cell shows '?' only. Tight spacing.",
+    "45.png": "1:1 compact dark tile. Short ladder steps labelled 2,5,10,? with small '+3','+5' markers beneath steps. Minimal.",
+    "48.png": "1:1 compact dark tile. Small Fibonacci bead row 0,1,1,2,3,? with beads centered; thin lines.",
+    "49.png": "1:1 compact dark tile. Three clustered circles with numbers 2,3,? and total 10 shown faintly; small '?' marker.",
+    "50.png": "1:1 compact dark tile. Equilateral triangle of nodes; each edge labelled '12'; small '?' near one node. Ultra thin lines.",
+    "54.png": "1:1 compact dark tile. Three small multiplication pairs: '1×2','2×3','3×?' with highlights and '?' marker. Clean layout.",
+    "57.png": "1:1 compact dark tile. Small symbol-systems: ▲▲● = 6 ; ▲●● = 5 shown as two short equations stacked; '?' to right. Thin glyphs.",
+    "60.png": "1:1 compact dark tile. 2×2 mini-grid with top row sum '5' and bottom row cells one missing marked '?'; clean numeric tags.",
+    "68.png": "1:1 compact dark tile. Horizontal chain 2,4,6,9,13,? with tiny under-increments +2,+2,+3,+4,+5. Tight, centered."
+  }
+}
