@@ -7,7 +7,7 @@
     {"id": 35,"level": 35,"text": "Triangle Park:\nBase pairs -> Peak\n[4] [6] -> 20\n[8] [3] -> 22\n[5] [9] -> ?","solution": 28,"hints": ["follow shape","try to add", "try to multiply 2"],"image": "35.png"},
     {"id":36,"level":36,"text":"Box1:[7][3][10][4] Box2:[5][9][14][4] Box3:[1][8][9][7] Box4:[4][2][6][?]","solution":2,"hints":["Try to add","subtract", ""],"image":"36.png"},
 	{"id":37,"level":37,"text":"circle clockwise: \n 9,38,7,?,6,51","solution":83,"hints":["look the opposite","squares", "+2"],"image":"37.png"},    
-	{"id":38,"level":38,"text":"Circle 1: outside [5,4,3,2] → center 60 \n Circle 2: outside [6,2,1,7] → center 42 \n Circle 3: outside [3,5,8,1] → center ?","solution":60,"hints":["Multiply","/2"],"image":"38.png"}
+	{"id":38,"level":38,"text":"Circle 1: outside [5,4,3,2] → center 60 \n Circle 2: outside [6,2,1,7] → center 42 \n Circle 3: outside [3,5,8,1] → center ?","solution":60,"hints":["Multiply","/2"],"image":"38.png"},
 	{"id":42,"level":42,"text":"tiles: 2,5,10,17,?","solution":26,"hints":["+3,+5,+7,+9","next +11"],"image":"42.png"},
     {"id":43,"level":43,"text":"Wheel: 12 | 40 | 28 | 4 | 16 | ?","solution":-12,"hints":["use opposite pairs","check 12-? and 40-16"],"image":"43.png"},
     {"id":44,"level":44,"text":"shapes: □+○=9 ; ○+△=11 ; □+△=?","solution":13,"hints":["add eqns","2(□+○+△)=40?","solve"],"image":"44.png"},
@@ -15,14 +15,11 @@
     {"id":46,"level":46,"text":"balance: left 8 right 8+? = 20","solution":4,"hints":["right side must be 20","20−8"],"image":null},
     {"id": 47,"level": 47,"text": "Rows: [3 42 1] \n [5 82 3] \n [6 84 2] \n [4 ? 1]","solution": 53,"hints": ["split middle", "left + right", "left - right"],"image": "47.png"},
     {"id":48,"level":48,"text":"2 = 3 \n 3 = 11 \n 5 = 27 \n 10 = ?","solution":101,"hints":["squares","+1 for even", "+2 for odd"],"image":null},
-    
-    
+    {"id":49,"level":49,"text":"15,7,16\n8,3,?\n7,3,8","solution":10,"hints":["subtract","×2"],"image":"49.png"},
     {"id":50,"level":50,"text":"edges: three equals 12 each ; find node","solution":6,"hints":["symmetry","each node 6"],"image":"50.png"},
-
     {"id":51,"level":51,"text":"frame: 2,3,5,7,11,?","solution":13,"hints":["prime list","next prime"],"image":null},
-	{"id":52,"level":52,"text":"1 11 21 1211 111221 312211 ?","solution":"13112221","hints":["Grouping identical digits","Say the count then the digit"],"image":null}
-    
-
+	{"id":52,"level":52,"text":"1 11 21 1211 111221 312211 ?","solution":"13112221","hints":["Grouping identical","Say the count", "then the digit"],"image":null},
+	{"id":53,"level":53,"text":"10,1,6,5,?,3,7,4","solution":8,"hints":["Check opposite","add the things up"],"image":"53.png"},
     
     
     
