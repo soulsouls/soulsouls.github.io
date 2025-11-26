@@ -1,31 +1,20 @@
 {
+	"list_etag": "2025-11-26-001",
 	"riddles": [
-	{"id":31,"level":31,"text":"1,1,2,4,8,?","solution":16,"hints":["double every term after second?","pattern"],"image":null},
-	{"id":32,"level":32,"text":"2→_→8  ","solution":5,"hints":["middle of 2 and 8","(2+8)/2"],"image":"32.png"},
-    {"id":33,"level":33,"text":"rings: 1×2, 2×3, 3×? = 18 ; ?","solution":3,"hints":["3×3=9?","check sequence"],"image":"33.png"},
-	{"id":34,"level":34,"text":"spiral dots: 1,2,4,7,?","solution":11,"hints":["differences +1,+2,+3","next +4"],"image":"34.png"},    
-    {"id": 35,"level": 35,"text": "Triangle Park:\nBase pairs -> Peak\n[4] [6] -> 20\n[8] [3] -> 22\n[5] [9] -> ?","solution": 28,"hints": ["follow shape","try to add", "try to multiply 2"],"image": "35.png"},
-    {"id":36,"level":36,"text":"Box1:[7][3][10][4] Box2:[5][9][14][4] Box3:[1][8][9][7] Box4:[4][2][6][?]","solution":2,"hints":["Try to add","subtract", ""],"image":"36.png"},
-	{"id":37,"level":37,"text":"circle clockwise: \n 9,38,7,?,6,51","solution":83,"hints":["look the opposite","squares", "+2"],"image":"37.png"},    
-	{"id":38,"level":38,"text":"Circle 1: outside [5,4,3,2] → center 60 \n Circle 2: outside [6,2,1,7] → center 42 \n Circle 3: outside [3,5,8,1] → center ?","solution":60,"hints":["Multiply","/2"],"image":"38.png"},	
-	
-	{"id":39,"level":39,"text":"arrows: 3,6,11,18,?","solution":27,"hints":["differences +3,+5,+7","next +9"],"image":"39.png"},
-	{"id":40,"level":40,"text":"pyramid: base 4,9,16 ; mid 5,12 ; top ?","solution":13,"hints":["look at base","square roots","add"],"image":"40.png"},
-	{"id":41,"level":41,"text":"stars: 2,6,12,20,?","solution":30,"hints":["differences +4,+6,+8","next +10"],"image":"41.png"},
-	
-	{"id":42,"level":42,"text":"tiles: 2,5,10,17,?","solution":26,"hints":["+3,+5,+7,+9","next +11"],"image":"42.png"},
-    {"id":43,"level":43,"text":"Wheel: 12 | 40 | 28 | 4 | 16 | ?","solution":-12,"hints":["use opposite pairs","check 12-? and 40-16"],"image":"43.png"},
-    {"id":44,"level":44,"text":"shapes: □+○=9 ; ○+△=11 ; □+△=?","solution":13,"hints":["add eqns","2(□+○+△)=40?","solve"],"image":"44.png"},
-    {"id":45,"level":45,"text":"ladder: levels 2,5,10,?","solution":17,"hints":["+3,+5,+7 pattern","next +9"],"image":"45.png"},
-    {"id":46,"level":46,"text":"balance: left 8 right 8+? = 20","solution":4,"hints":["right side must be 20","20−8"],"image":null},
-    {"id":47,"level":47,"text": "Rows: [3 42 1] \n [5 82 3] \n [6 84 2] \n [4 ? 1]","solution": 53,"hints": ["split middle", "left + right", "left - right"],"image": "47.png"},
-    {"id":48,"level":48,"text":"2 = 3 \n 3 = 11 \n 5 = 27 \n 10 = ?","solution":101,"hints":["squares","+1 for even", "+2 for odd"],"image":null},
-    {"id":49,"level":49,"text":"15,7,16\n8,3,?\n7,3,8","solution":10,"hints":["subtract","×2"],"image":"49.png"},
-    {"id":50,"level":50,"text":"edges: three equals 12 each ; find node","solution":6,"hints":["symmetry","each node 6"],"image":"50.png"},
-    {"id":51,"level":51,"text":"frame: 2,3,5,7,11,?","solution":13,"hints":["prime list","next prime"],"image":null},
-	{"id":52,"level":52,"text":"1 11 21 1211 111221 312211 ?","solution":"13112221","hints":["Grouping identical","Say the count", "then the digit"],"image":null},
-	{"id":53,"level":53,"text":"10,1,6,5,?,3,7,4","solution":8,"hints":["Check opposite","add the things up"],"image":"53.png"},
-    {"id":54,"level":54,"text":"weave: 1,3,6,10,15,?","solution":21,"hints":["triangular numbers","+5 next"],"image":"54.png"},
-	{"id":55,"level":55,"text":"1111 = 5, 2222 = 24, 3333 = ?","hints":["Add the digits","Multiply the digits","Add both results"],"solution":93,"image":null}
+	{"id":31,"level":31,"version":1,"text":"1,1,2,4,8,?","solution":16,"hints":["pattern +", "Add previous"],"image":null},
+	{"id":32,"level":32,"version":1,"text":"2→_→8  ","solution":5,"hints":["middle"],"image":"32.webp"},
+    {"id":33,"level":33,"version":1,"text":"rings: 1×2, 2×3, 3×? = 54 ; ?","solution":3,"hints":["Group them","Multiply"],"image":"33.webp"},
+	{"id":34,"level":34,"version":1,"text":"spiral dots: 1,2,4,7,?","solution":11,"hints":["differences","+1"],"image":"34.webp"},    
+    {"id": 35,"level": 35,"version":1,"text": "Triangle Park:\nBase pairs -> Peak\n[4] [6] -> 20\n[8] [3] -> 22\n[5] [9] -> ?","solution": 28,"hints": ["Add", "Multiply 2"],"image": "35.webp"},
+	{"id":36,"level":36,"version":1,"text":"On Mobile Data","solution":76,"hints":["squares", "-5 pattern"],"image":"36.webp"},
+	{"id":37,"level":37,"version":1,"text":"On Mobile Data ","solution": 66,"hints":["Division", "-1 pattern"],"image":"37.webp"},
+	{"id":38,"level":38,"version":1,"text":"On Mobile Data ","solution": 6,"hints":["Multiply", "7 x 6 "],"image":"38.webp"},
+	{"id":39,"level":39,"version":1,"text":"On Mobile Data ","solution": 8,"hints":["Quarters", "Add"],"image":"39.webp"},
+	{"id":40,"level":40,"version":1,"text":"On Mobile Data ","solution": 8,"hints":["Add", "+2 pattern"],"image":"40.webp"},
+	{"id":41,"level":41,"version":1,"text":"On Mobile Data ","solution": 10,"hints":["Subtract", "x 2"],"image":"41.webp"},
+	{"id":42,"level":42,"version":1,"text":"On Mobile Data ","solution": 6,"hints":["L Shape", "Add"],"image":"42.webp"},
+	{"id":43,"level":43,"version":1,"text":"22, 21, 23, 22, 24, ?","solution": 23,"hints":["series", "Shuffle flow"],"image":null},
+	{"id":44,"level":44,"version":1,"text":"1111 = 5\n2222 = 24\n3333 = ?","solution": 93,"hints":["Add(Basic math)", "Multiply"],"image":null}
+
   ]
 }
