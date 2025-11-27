@@ -1,20 +1,20 @@
 {
-	"list_etag": "2025-11-26-001",
-	"riddles": [
-	{"id":31,"level":31,"version":1,"text":"1,1,2,4,8,?","solution":16,"hints":["pattern +", "Add previous"],"image":null},
-	{"id":32,"level":32,"version":1,"text":"2→_→8  ","solution":5,"hints":["middle"],"image":"32.webp"},
+    "list_etag": "2025-11-26-001",
+    "riddles": [
+    {"id":31,"level":31,"version":1,"text":"1,1,2,4,8,?","solution":16,"hints":["pattern +", "Add previous"],"image":null},
+    {"id":32,"level":32,"version":1,"text":"2→_→8  ","solution":5,"hints":["middle"],"image":"32.webp"},
     {"id":33,"level":33,"version":1,"text":"rings: 1×2, 2×3, 3×? = 54 ; ?","solution":3,"hints":["Group them","Multiply"],"image":"33.webp"},
-	{"id":34,"level":34,"version":1,"text":"spiral dots: 1,2,4,7,?","solution":11,"hints":["differences","+1"],"image":"34.webp"},    
-    {"id": 35,"level": 35,"version":1,"text": "Triangle Park:\nBase pairs -> Peak\n[4] [6] -> 20\n[8] [3] -> 22\n[5] [9] -> ?","solution": 28,"hints": ["Add", "Multiply 2"],"image": "35.webp"},
-	{"id":36,"level":36,"version":1,"text":"On Mobile Data","solution":76,"hints":["squares", "-5 pattern"],"image":"36.webp"},
-	{"id":37,"level":37,"version":1,"text":"On Mobile Data ","solution": 66,"hints":["Division", "-1 pattern"],"image":"37.webp"},
-	{"id":38,"level":38,"version":1,"text":"On Mobile Data ","solution": 6,"hints":["Multiply", "7 x 6 "],"image":"38.webp"},
-	{"id":39,"level":39,"version":1,"text":"On Mobile Data ","solution": 8,"hints":["Quarters", "Add"],"image":"39.webp"},
-	{"id":40,"level":40,"version":1,"text":"On Mobile Data ","solution": 8,"hints":["Add", "+2 pattern"],"image":"40.webp"},
-	{"id":41,"level":41,"version":1,"text":"On Mobile Data ","solution": 10,"hints":["Subtract", "x 2"],"image":"41.webp"},
-	{"id":42,"level":42,"version":1,"text":"On Mobile Data ","solution": 6,"hints":["L Shape", "Add"],"image":"42.webp"},
-	{"id":43,"level":43,"version":1,"text":"22, 21, 23, 22, 24, ?","solution": 23,"hints":["series", "Shuffle flow"],"image":null},
-	{"id":44,"level":44,"version":1,"text":"1111 = 5\n2222 = 24\n3333 = ?","solution": 93,"hints":["Add(Basic math)", "Multiply"],"image":null}
+    {"id":34,"level":34,"version":1,"text":"spiral dots: 1,2,4,7,?","solution":11,"hints":["differences","+1"],"image":"34.webp"},    
+    {"id": 35,"level": 35,"version":1,"text": "Triangle Park:\\nBase pairs -> Peak\\n[4] [6] -> 20\\n[8] [3] -> 22\\n[5] [9] -> ?","solution": 28,"hints": ["Add", "Multiply 2"],"image": "35.webp"},
+    {"id":36,"level":36,"version":1,"text":"On Mobile Data","solution":76,"hints":["squares", "-5 pattern"],"image":"36.webp"},
+    {"id":37,"level":37,"version":1,"text":"On Mobile Data ","solution": 66,"hints":["Division", "-1 pattern"],"image":"37.webp"},
+    {"id":38,"level":38,"version":1,"text":"On Mobile Data ","solution": 6,"hints":["Multiply", "7 x 6 "],"image":"38.webp"},
+    {"id":39,"level":39,"version":1,"text":"On Mobile Data ","solution": 8,"hints":["Quarters", "Add"],"image":"39.webp"},
+    {"id":40,"level":40,"version":1,"text":"On Mobile Data ","solution": 8,"hints":["Add", "+2 pattern"],"image":"40.webp"},
+    {"id":41,"level":41,"version":1,"text":"On Mobile Data ","solution": 10,"hints":["Subtract", "x 2"],"image":"41.webp"},
+    {"id":42,"level":42,"version":1,"text":"On Mobile Data ","solution": 6,"hints":["L Shape", "Add"],"image":"42.webp"},
+    {"id":43,"level":43,"version":1,"text":"22, 21, 23, 22, 24, ?","solution": 23,"hints":["series", "Shuffle flow"],"image":null},
+    {"id":44,"level":44,"version":1,"text":"1111 = 5\\n2222 = 24\\n3333 = ?","solution": 93,"hints":["Add(Basic math)", "Multiply"],"image":null}
 
   ]
 }
