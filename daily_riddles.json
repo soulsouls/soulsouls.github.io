@@ -1,8 +1,13 @@
 {
   "title": "Daily 10 Challenge",
-  "version": 1,
-  "updated": "2025-11-04",
+  "version": 2,
+  "updated": "2025-12-15",
   "riddles": [
-    { "challenge": 1,  "id": 201, "text": "What is 2 + 2?",        "solution": 4,  "hint": "Add 2 and 2" }
+    { "challenge": 1,  "id": 201, "text": "What is 2 + 2?",        "solution": 4,  "hint": "Add 2 and 2" },
+    { "challenge": 2,  "id": 202, "text": "3x + 5 = 20.\nX = ?", "solution": 5, "hint": "basic algebra" }, 
+    { "challenge": 3,  "id": 203, "text": "1=4, 2=15, 3=215 \n 4 = ?", "solution": 1, "hint": "1=?" },
+    { "challenge": 4,  "id": 204, "text": "3 → 6\n4 → 9\n5 → ?", "solution": 12, "hint": "Multiply"," x 2" },
+    { "challenge": 5,  "id": 205, "text": "80, 10, 70, 15 , ?", "solution": 60, "hint": "subtraction" },
+    { "challenge": 6,  "id": 206, "text": "22, 21, 23, 22, 24, ?", "solution": 23, "hint": "subtract & add, +1" }
   ]
 }
